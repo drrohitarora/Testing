@@ -211,3 +211,8 @@ config.json
 .garmin_session
 output/
 raw_data.json
+
+# Backend
+*.db
+garmin_training.db
+test_garmin.db
